@@ -1,0 +1,34 @@
+.fass{
+    border: 10px black solid;
+    background: coral;
+}
+h1{
+    background: grey;
+    text-align: justify;
+    padding-left: 80px;
+}
+.zikra{
+    background: mediumorchid;
+    border: 4px yellow solid;
+    padding: 20px;
+    color: white;
+}
+
+.catagories{
+    background: lime;
+    border: 2px red solid;
+}
+
+.mobile{
+    background: grey;
+    border: 2px coral solid;
+}
+
+h2{
+    background: mediumaquamarine;
+  text-align: center;
+}
+h3{
+    padding: 20px;
+}
+
